@@ -15,7 +15,9 @@ This is a 3D Endless Runner game built in **Unity** where the player runs forwar
 
 ## 🎥 Gameplay Video
 
-[![Watch Gameplay](https://youtu.be/tIA-eZbk3R0)
+https://youtu.be/tIA-eZbk3R0
+
+
 
 
 ## 🛠️ How to Play
