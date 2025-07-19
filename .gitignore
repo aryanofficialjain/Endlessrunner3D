@@ -1,0 +1,19 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/Layouts/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.suo
+
+# OS junk
+.DS_Store
+Thumbs.db
