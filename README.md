@@ -14,6 +14,8 @@ This is a 3D Endless Runner game built in **Unity** where the player runs forwar
 - 🕹️ Keyboard + Mouse controls
 
 ## 🎥 Gameplay Video
+<img width="1874" height="1069" alt="Screenshot 2025-07-19 at 3 05 28 PM" src="https://github.com/user-attachments/assets/a8cad77d-01b9-4c64-a012-b340144bb0d6" />
+
 
 https://youtu.be/tIA-eZbk3R0
 
@@ -21,6 +23,7 @@ https://youtu.be/tIA-eZbk3R0
 
 
 ## 🛠️ How to Play
+
 
 - `A / D` or `← / →` to move left/right
 - `Space` or `Mouse Click` to jump
